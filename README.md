@@ -46,8 +46,15 @@ Most recently, I was part of the engineering team behind **SKY Airline's** custo
 
 ---
 
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JostynG10&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jostyngomez)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://jostyngomez.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://jostyngomez.com/)
+[![CodePen](https://img.shields.io/badge/CodePen-1E1F26?style=flat&logo=codepen&logoColor=white)](https://codepen.io/JostynG10)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ing.jostyngomez@gmail.com)
